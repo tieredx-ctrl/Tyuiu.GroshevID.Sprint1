@@ -1,4 +1,4 @@
-﻿using Tyuiu.GroshevID.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.GroshevID.Sprint1.Task0.V30.Lib;
 
 internal class Program
 {

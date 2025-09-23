@@ -1,6 +1,6 @@
-﻿using Tyuiu.GroshevID.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.GroshevID.Sprint1.Task0.V30.Lib;
 
-namespace Tyuiu.GroshevID.Sprint1.Task0.V0.Test
+namespace Tyuiu.GroshevID.Sprint1.Task0.V30.Test
 {
     [TestClass]
     public sealed class DataServiceTest
