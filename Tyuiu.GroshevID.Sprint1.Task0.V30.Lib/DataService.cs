@@ -6,7 +6,6 @@ namespace Tyuiu.GroshevID.Sprint1.Task0.V30.Lib
     {
         public double Calculate()
         {
-
             return 20 * 5 - 4;
         }
     }
