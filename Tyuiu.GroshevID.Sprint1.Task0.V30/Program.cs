@@ -12,7 +12,7 @@ internal class Program
         Console.WriteLine("* Спринт #1                                                               *");
         Console.WriteLine("* Тема: Базовые навыки работы в C#                                        *");
         Console.WriteLine("* Задание #0                                                              *");
-        Console.WriteLine("* Вариант #0                                                              *");
+        Console.WriteLine("* Вариант #30                                                             *");
         Console.WriteLine("* Выполнил: Грошев Илья Дмитриевич | РППб-25-1                            *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
