@@ -1,4 +1,4 @@
-﻿using Tyuiu.GroshevID.Sprint1.Task3.V9.Lib;
+﻿using Tyuiu.GroshevID.Sprint1.Task3.V14.Lib;
 
 internal class Program
 {
@@ -12,7 +12,7 @@ internal class Program
         Console.WriteLine("* Спринт #1                                                               *");
         Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
         Console.WriteLine("* Задание #3                                                              *");
-        Console.WriteLine("* Вариант #9                                                              *");
+        Console.WriteLine("* Вариант #14                                                             *");
         Console.WriteLine("* Выполнил: Грошев Илья Дмитриевич | РППб-25-1                            *");
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* УСЛОВИЕ:                                                                *");
@@ -23,16 +23,16 @@ internal class Program
         Console.WriteLine("* ИСХОДНЫЕ ДАННЫЕ:                                                        *");
         Console.WriteLine("***************************************************************************");
 
-        int minutes;
+        double number;
 
-        Console.WriteLine("Введите временной интервал (в минутах):");
-        minutes = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Введите число: ");
+        number = Convert.ToInt32(Console.ReadLine());
 
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
 
-        Console.WriteLine(minutes);
+        Console.WriteLine("Число в обратном порядке: " + ds.ReverseNumber(number));
 
         Console.ReadLine();
     }
